@@ -34,7 +34,7 @@
 
 - 14. Auszahlungen gemäß Art. 15 Abs. 5, Art. 16 Abs. 5, Art. 17 Abs. 5 ESM-Vertrag,
 
-(Anm.: Z 15 tritt in Kraft, sobald der Präsident des Nationalrates nach Beratung in der Präsidialkonferenz dem Bundeskanzler mitteilt, dass die erforderlichen bundesgesetzlichen Bestimmungen betreffend den Umgang mit sekundärmarktrelevanten Informationen in Kraft sind.)
+- 15. die Einleitung von Sekundärmarktoperationen gemäß Art. 18 Abs. 6 ESM-Vertrag,
 
 - 16. Preisgestaltungsleitlinien gemäß Art. 20 Abs. 2 ESM-Vertrag,
 
@@ -78,7 +78,7 @@
 
 § 5. (1) Nach Einlangen von Dokumenten gemäß § 1 bis 3 verfügt der Präsident deren unverzügliche Vervielfältigung und Verteilung an die Mitglieder des Ständigen Unterausschusses in ESM-Angelegenheiten sowie an jeweils eine von den Klubs namhaft gemachte Person, für die die Nennung einer Vertretung zulässig ist.
 
-(Anm.: Abs. 2 tritt in Kraft, sobald der Präsident des Nationalrates nach Beratung in der Präsidialkonferenz dem Bundeskanzler mitteilt, dass die erforderlichen bundesgesetzlichen Bestimmungen betreffend den Umgang mit sekundärmarktrelevanten Informationen in Kraft sind.)
+(2) Sofern sich Dokumente, die gemäß § 1 bis 3 übermittelt werden, auf Sekundärmarktinterventionen im Rahmen des Europäischen Stabilitätsmechanismus gemäß Art. 18 ESM-Vertrag beziehen, verfügt der Präsident deren unverzügliche Vervielfältigung und Verteilung an die Mitglieder des Ständigen Unterausschusses in Sekundärmarktangelegenheiten-ESM sowie an jeweils eine von den Klubs namhaft gemachte Person, für die die Nennung einer Vertretung zulässig ist.
 
 § 6. Der zuständige Bundesminister hat dem Nationalrat gemäß Art. 50c Abs. 3 B-VG jeweils binnen einem Monat nach Ablauf des Kalendervierteljahres einen Bericht über die im Rahmen des Europäischen Stabilitätsmechanismus getroffenen Maßnahmen vorzulegen, in dem diese beschrieben und erläutert werden.
 
